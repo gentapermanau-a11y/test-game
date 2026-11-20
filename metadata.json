@@ -1,0 +1,6 @@
+{
+  "name": "Solaris Vanguard",
+  "description": "A fast-paced 2D arcade space shooter with glowing plasma weapons, asteroid fields, enemy squadrons, and wave survival.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
